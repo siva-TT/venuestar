@@ -1,0 +1,55 @@
+{
+    "PatronItems": [
+      {
+        "T": "Visit Us",
+        "PIU": "http://rxdevds.blob.core.windows.net/venuemetro/AppImages/RXMEMBER/ProfileQuickviews/VisitUs.png",
+        "U": "http://www.redeemx.com/",
+        "AD": "EXTERNALURLS"
+      },
+      {
+        "T": "GSL Transfer",
+        "PIU": "http://rxdevds.blob.core.windows.net/venuemetro/AppImages/RXMEMBER/ProfileQuickviews/GSL.png",
+        "AD": "GSL"
+      },
+      {
+        "T": "Join",
+        "PIU": "http://rxdevds.blob.core.windows.net/venuemetro/AppImages/RXMEMBER/ProfileQuickviews/GSL.png",
+        "AD": "JOIN"
+      },
+      {
+        "T": "Sub Clubs",
+        "PIU": "http://rxdevds.blob.core.windows.net/venuemetro/AppImages/RXMEMBER/ProfileQuickviews/Subclubs.png",
+        "AD": "SUBCLUBS"
+      },
+      {
+        "T": "Tier Info",
+        "PIU": "http://rxdevds.blob.core.windows.net/venuemetro/AppImages/RXMEMBER/ProfileQuickviews/TierInfo.png",
+        "AD": "TIERINFO"
+      },
+      {
+        "T": "Change Pin",
+        "PIU": "",
+        "AD": "PINCHANGE"
+      },
+      {
+        "T": "Inbox",
+        "PIU": "",
+        "AD": "NIINBOX"
+      },
+      {
+        "T": "Language Preference",
+        "PIU": "",
+        "AD": "LANGUAGEPREF"
+      },
+      {
+        "T": "Marketing Preference",
+        "PIU": "",
+        "AD": "MARKETINGPREF"
+      },
+      {
+        "T": "Send App Link",
+        "PIU": "http://rxdevds.blob.core.windows.net/venuemetro/AppImages/RXMEMBER/ProfileQuickviews/SendAppLink.png",
+        "AD": "SENDAPPLINK"
+      }
+    ]
+  }

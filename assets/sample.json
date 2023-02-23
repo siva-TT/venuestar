@@ -1,0 +1,33 @@
+{
+  "Title": [
+    "Earned",
+    "Points",
+    "Valid Until"
+  ],
+  "PointsData": [
+    {
+      "PtsType": "Gaming Bonus",
+      "Earned": "30 Apr 2021",
+      "ValidUntil": "30 Apr 2022",
+      "Points": "-2000.00"
+    },
+    {
+      "PtsType": "Loyalty Bonus",
+      "Earned": "31 May 2021",
+      "ValidUntil": "31 May 2022",
+      "Points": "351.50"
+    },
+    {
+      "PtsType": "Loyalty Standard",
+      "Earned": "30 Apr 2021",
+      "ValidUntil": "30 Apr 2022",
+      "Points": "-86.00"
+    },
+    {
+      "PtsType": "Loyalty Standard",
+      "Earned": "31 May 2021",
+      "ValidUntil": "31 May 2022",
+      "Points": "-73.00"
+    }
+  ]
+}

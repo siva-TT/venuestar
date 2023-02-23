@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "911833596616",
+    "project_id": "venue-d65fd",
+    "storage_bucket": "venue-d65fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911833596616:android:741123b7e2f82aa94d9bfd",
+        "android_client_info": {
+          "package_name": "net.redeemx.patron.apnspush"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "911833596616-pn1i2mr8jshec3mfdacdiijrfq2mltmj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYdCdJkVoEetNGH5Nfh8VeR6n2hxMYObQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "911833596616-pn1i2mr8jshec3mfdacdiijrfq2mltmj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "911833596616-j99g8bvj6lsqkpiqg9mi6e0bfl1akqfq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "net.redeemx.patron.venuestar"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911833596616:android:18153205015421d94d9bfd",
+        "android_client_info": {
+          "package_name": "net.redeemx.patron.venuestar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "911833596616-pn1i2mr8jshec3mfdacdiijrfq2mltmj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYdCdJkVoEetNGH5Nfh8VeR6n2hxMYObQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "911833596616-pn1i2mr8jshec3mfdacdiijrfq2mltmj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "911833596616-j99g8bvj6lsqkpiqg9mi6e0bfl1akqfq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "net.redeemx.patron.venuestar"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
