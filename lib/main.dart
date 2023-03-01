@@ -3,11 +3,16 @@
 import 'package:carousel_slider/carousel_slider.dart';
 import "package:flutter/material.dart";
 import 'package:venuestar/custom-widget-tabs.widget.dart';
+import 'package:venuestar/push/firebase_options.dart';
 import 'package:venuestar/push/push_notifications.dart';
 import 'package:venuestar/screens/learningpage.dart';
+import 'package:firebase_core/firebase_core.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
+  await Firebase.initializeApp(
+    options: DefaultFirebaseOptions.currentPlatform,
+  );
   runApp(MyApp(await initializeFlutterLocalNotifications()));
 }
 

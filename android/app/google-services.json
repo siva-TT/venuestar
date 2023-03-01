@@ -1,6 +1,7 @@
 {
   "project_info": {
     "project_number": "911833596616",
+    "firebase_url": "https://venue-d65fd-default-rtdb.firebaseio.com",
     "project_id": "venue-d65fd",
     "storage_bucket": "venue-d65fd.appspot.com"
   },
